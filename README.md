@@ -6,8 +6,11 @@
 
 
 Hi, Welcome to my profile.
-I’m Automotive Software Designer, and I specialized in SysML Model Developement, MATLAB - Simulink & Stateflow, Autosar, also having knowledge of web developement.
-Currenty working in Automotive Software Domain
+I’m Automotive Software Designer, and I specialized in SysML Model Developement, MATLAB - Simulink & Stateflow, Autosar, also having knowledge of web developement. <br>
+Currenty working in Automotive Software Domain.<br>
+Mostly intrested in Automotives
+<br>
+Apart from this I am an Artist, Loves to Sketch Portrait, Cartoons and Tiny Drawings.<br>
 
 
 
