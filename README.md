@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Kunal Ingle</h1>
-<h3 align="center">A passionate Automotive software designer</h3>
+<h1 align="center">Hello World!</h1>
+<h2 align="center">This is Kunal Ingle</h2>
+<h3 align="center">A Passionate Automotive Software Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-i&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-i" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kunal_i21" target="blank"><img src="https://img.shields.io/twitter/follow/kunal_i21?logo=twitter&style=for-the-badge" alt="kunal_i21" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+Hi, Welcome to my profile.
+I’m Automotive Software Designer, and I specialized in SysML Model Developement, MATLAB - Simulink & Stateflow, Autosar, also having knowledge of web developement.
+Currenty working in Automotive Software Domain
+
+
 
 - 📫 How to reach me **kunusingle21@gmail.com**
+- <p align="left"> <a href="https://twitter.com/kunal_i21" target="blank"><img src="https://img.shields.io/twitter/follow/kunal_i21?logo=twitter&style=for-the-badge" alt="kunal_i21" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
